@@ -1,0 +1,33 @@
+.div-principal {
+  text-align: center;
+  border: 5px solid;
+  max-width: 800px;
+  margin: auto;
+}
+
+h2,
+h1 {
+  color: blue;
+}
+
+input {
+  margin: 10px;
+  padding: 8px;
+}
+
+button {
+  color: white;
+  background-color: blue;
+  border-radius: 20px;
+  border: none;
+  padding: 5px 10px 5px 10px;
+  font-size: 18px;
+}
+
+button:hover {
+  background-color: rgb(91, 91, 156);
+}
+
+li {
+  display: block;
+}
